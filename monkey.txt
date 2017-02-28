@@ -1,1 +1,3 @@
 Now of added something in master branch. How will this all merge ?
+We add stuff in branch = branchA
+
