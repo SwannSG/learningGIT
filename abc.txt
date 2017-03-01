@@ -1,4 +1,6 @@
-text added in master branch
+text added in master branch. What a pain.
+
+We need extra stuff
 
 from 'master' branch
 add one
