@@ -1,7 +1,11 @@
 text added in master branch. What a pain.
 
 We need extra stuff
+some new text added in master branch
+
 
 from 'master' branch
 add one
 add two
+
+the cat sat on the mat
